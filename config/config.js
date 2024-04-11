@@ -65,8 +65,6 @@ var config = {
      */
     portfolio: [
         ["./images/pro-1.png", "https://blog.mulinbiao.com", "个人博客", "这里记录了我的工作,学习和生活<br>持续更新"],
-        ["./images/pro-2.png", "https://github.com/happysnaker/Gobang", "智能人机对战五子棋", "采用C++编写的智能五子棋人机对战<br>2021/7/23"],
-        ["https://pic3.zhimg.com/80/v2-d9766956d5c85c2780e4c5008fd946ca_1440w.jpg", "https://github.com/happysnaker/StudentsManageSystem", "学生管理系统", "C语言+AVL树+多重双向表实现"]
     ],
 
 
